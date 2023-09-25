@@ -1,0 +1,14 @@
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ApiCall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ApiCall.AssemblyInfoInputs.cache
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ApiCall.AssemblyInfo.cs
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ApiCall.csproj.CoreCompileInputs.cache
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/bin/Debug/net7.0/ApiCall
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/bin/Debug/net7.0/ApiCall.deps.json
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/bin/Debug/net7.0/ApiCall.runtimeconfig.json
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/bin/Debug/net7.0/ApiCall.dll
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/bin/Debug/net7.0/ApiCall.pdb
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ApiCall.dll
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/refint/ApiCall.dll
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ApiCall.pdb
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ApiCall.genruntimeconfig.cache
+/Users/admin/PersonalProjects/pruebas tecnicas/Api_Call/ApiCall/obj/Debug/net7.0/ref/ApiCall.dll
